@@ -13,5 +13,11 @@
         // El modificador 'required' (disponible desde C# 11) indica que esta propiedad debe ser obligatoriamente seteada.
         // Esto ayuda a evitar nulos en tiempo de compilación o ejecución.
         public required string UserName { get; set; }
+
+
+        public required byte[] PasswordHash { get; set; }
+
+
+        public byte[] PasswordSalt { get; set; }
     }
 }
