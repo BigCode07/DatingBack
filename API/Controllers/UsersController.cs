@@ -1,5 +1,6 @@
 ﻿using API.Data;
 using API.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Security.Cryptography.X509Certificates;
@@ -35,6 +36,7 @@ public class UsersController(DataContext context) : BaseApiController
 
     // Método HTTP GET que devuelve todos los usuarios de la base de datos.
     // Ruta: GET /api/[controller]
+    [AllowAnonymous]
     [HttpGet]
     public async Task<ActionResult<IEnumerable<AppUser>>> GetUsers()
     {
@@ -45,6 +47,7 @@ public class UsersController(DataContext context) : BaseApiController
 
     // Método HTTP GET que devuelve todos los usuarios, pero recibe un parámetro 'id' en la URL.
     // Ruta: GET /api/[controller]/{id} 
+    [Authorize]
     [HttpGet("{id}")]
     public async Task<ActionResult<AppUser>> GetUsers(int id)
     {
