@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\nicol\\Desktop\\Dating\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,12 +19,20 @@
       "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\DTOs\\RegisterDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\RegisterDto.cs",
@@ -103,33 +103,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "API\\Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Data\\DataContext.cs",
-              "RelativeToolTip": "API\\Data\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T22:34:53.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BuggyController.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Controllers\\BuggyController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\BuggyController.cs",
               "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Controllers\\BuggyController.cs",
               "RelativeToolTip": "API\\Controllers\\BuggyController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T22:34:28.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "API.http",
               "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\API.http",
               "RelativeDocumentMoniker": "API\\API.http",
@@ -153,19 +140,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
               "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T09:20:06.377Z"
+              "WhenOpened": "2025-05-27T09:20:06.377Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\UsersController.cs",
@@ -173,7 +161,33 @@
               "RelativeToolTip": "API\\Controllers\\UsersController.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T09:17:06.025Z"
+              "WhenOpened": "2025-05-27T09:17:06.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T10:01:05.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "API\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Data\\DataContext.cs",
+              "RelativeToolTip": "API\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:34:53.41Z"
             },
             {
               "$type": "Document",
@@ -189,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
@@ -197,20 +211,7 @@
               "RelativeToolTip": "API\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T01:44:02.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-28T10:01:05.458Z"
+              "WhenOpened": "2025-05-24T01:44:02.91Z"
             },
             {
               "$type": "Document",

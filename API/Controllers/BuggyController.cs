@@ -28,8 +28,16 @@ namespace API.Controllers
         [HttpGet("server-error")] // api/buggy/server-error
         public ActionResult<AppUser> GetServerError()
         {
-            var thing = context.Users.Find(-1) ?? throw new Exception("A bad thing has happened");                       
-            return thing;
+            try
+            {
+                var thing = context.Users.Find(-1) ?? throw new Exception("A bad thing has happened");
+                return thing;
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "Internal server error: " + ex.Message); // Devuelve un error 500 (Internal Server Error) con un mensaje de error.
+            }
+            
         }
 
         [HttpGet("bad-request")] // api/buggy/bad-request
