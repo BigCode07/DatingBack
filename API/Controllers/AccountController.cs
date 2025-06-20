@@ -17,24 +17,24 @@ namespace API.Controllers
         public async Task<ActionResult<UserDto>> Register(RegisterDto registerDto)
         {
             if (await UserExists(registerDto.Username)) return BadRequest("Username is taken"); // Si el usuario ya existe, devuelve un error 400 (Bad Request).
+            return Ok();
+            //using var hmac = new HMACSHA512();
 
-            using var hmac = new HMACSHA512();
+            //var user = new AppUser
+            //{
+            //    UserName = registerDto.Username.ToLower(),
+            //    PasswordHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(registerDto.Password)),
+            //    PasswordSalt = hmac.Key
+            //};
 
-            var user = new AppUser
-            {
-                UserName = registerDto.Username.ToLower(),
-                PasswordHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(registerDto.Password)),
-                PasswordSalt = hmac.Key
-            };
+            //context.Users.Add(user);
+            //await context.SaveChangesAsync();
 
-            context.Users.Add(user);
-            await context.SaveChangesAsync();
-
-            return new UserDto
-            {
-                Username = user.UserName,
-                Token = tokenService.CreateToken(user) // Genera un token JWT para el usuario registrado.
-            };
+            //return new UserDto
+            //{
+            //    Username = user.UserName,
+            //    Token = tokenService.CreateToken(user) // Genera un token JWT para el usuario registrado.
+            //};
 
         }
 
