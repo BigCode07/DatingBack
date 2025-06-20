@@ -1,4 +1,6 @@
-﻿namespace API.Entities
+﻿using API.Extensions;
+
+namespace API.Entities
 {
     // Definimos la clase AppUser.
     // Esta clase representa una entidad (una fila) de la tabla "Users" en la base de datos.
@@ -39,5 +41,11 @@
         public required string City { get; set; }
 
         public List<Photo> Photos { get; set; } = [];
+    
+        public int GetAge()
+        {
+            // Calcula la edad del usuario a partir de su fecha de nacimiento.
+            return DateOfBirth.CalculateAge();
+        }
     }
 }
