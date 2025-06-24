@@ -162,3 +162,4 @@ C:\Users\nicol\Desktop\Dating\API\bin\Debug\net9.0\System.IdentityModel.Tokens.J
 C:\Users\nicol\Desktop\Dating\API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\nicol\Desktop\Dating\API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\nicol\Desktop\Dating\API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nicol\Desktop\Dating\API\bin\Debug\net9.0\Data\UserSeedData.json

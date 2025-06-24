@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\nicol\\Desktop\\Dating\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\data\\userseeddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\data\\userseeddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\data\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\data\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\entities\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\entities\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\data\\userseeddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\data\\userseeddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,19 +58,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:1213339366:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Program.cs",
-              "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "API\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Data\\DataContext.cs",
+              "RelativeToolTip": "API\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T01:41:20.542Z",
+              "WhenOpened": "2025-06-24T02:08:13.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Data\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "API\\Data\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Data\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "API\\Data\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:07:59.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Entities\\Photo.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\Photo.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Entities\\Photo.cs",
+              "RelativeToolTip": "API\\Entities\\Photo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:07:53.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Entities\\AppUser.cs",
+              "RelativeToolTip": "API\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:07:50.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "API\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:07:49.893Z",
               "EditorCaption": ""
             },
             {
@@ -63,7 +147,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "UserSeedData.json",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Data\\UserSeedData.json",
+              "RelativeDocumentMoniker": "API\\Data\\UserSeedData.json",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Data\\UserSeedData.json",
+              "RelativeToolTip": "API\\Data\\UserSeedData.json",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAL8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T23:17:17.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Seed.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Data\\Seed.cs",
               "RelativeDocumentMoniker": "API\\Data\\Seed.cs",
@@ -76,7 +173,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "API\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:07:47.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T02:06:06.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T01:41:20.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ExceptionMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Middleware\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "API\\Middleware\\ExceptionMiddleware.cs",
@@ -84,12 +220,11 @@
               "RelativeToolTip": "API\\Middleware\\ExceptionMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T01:33:00.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T01:33:00.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "ITokenService.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Interfaces\\ITokenService.cs",
               "RelativeDocumentMoniker": "API\\Interfaces\\ITokenService.cs",
@@ -97,21 +232,7 @@
               "RelativeToolTip": "API\\Interfaces\\ITokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T01:32:57.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserSeedData.json",
-              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Data\\UserSeedData.json",
-              "RelativeDocumentMoniker": "API\\Data\\UserSeedData.json",
-              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Data\\UserSeedData.json",
-              "RelativeToolTip": "API\\Data\\UserSeedData.json",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAAAL8AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-21T23:17:17.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T01:32:57.427Z"
             }
           ]
         }
