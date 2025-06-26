@@ -21,7 +21,10 @@ namespace API.Data
 
         public async Task<IEnumerable<AppUser>> GetUsersAsync()
         {
-            return await context.Users.ToListAsync();
+
+            return await context.Users
+                .Include(x => x.Photos) // Incluye las fotos del usuario.
+                .ToListAsync();
         }
 
         public async Task<bool> SaveAllAsync()

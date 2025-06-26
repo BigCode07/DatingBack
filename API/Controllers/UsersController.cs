@@ -1,5 +1,6 @@
 ﻿using API.Data;
 using API.Entities;
+using API.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -7,55 +8,27 @@ using System.Security.Cryptography.X509Certificates;
 
 namespace API.Controllers;
 
-[ApiController]
-[Route("api/[controller]")]
-public class UsersController(DataContext context) : BaseApiController
+//[Authorize]
+public class UsersController(IUserRepository userRepository) : BaseApiController
 {
-    // ------------------------------------
-    // Forma de trabajo de la API: VERSIONES VIEJAS
-    // ------------------------------------
-    //private readonly DataContext _context;
-
-    //public UsersController(DataContext context)
-    //{
-    //    _context = context; 
-    //}
-
-    //[HttpGet]
-
-    //public ActionResult<IEnumerable<AppUser>> GetUsers()
-    //{
-    //    var users = _context.Users.ToList();
-    //    return Ok(users);
-    //}
-    // ------------------------------------
-
-    // Forma de trabajo de la API: VERSIONES NUEVAS
-    // ------------------------------------
-
-
-    // Método HTTP GET que devuelve todos los usuarios de la base de datos.
-    // Ruta: GET /api/[controller]
-    [AllowAnonymous]
+ 
     [HttpGet]
+
     public async Task<ActionResult<IEnumerable<AppUser>>> GetUsers()
     {
-        var users = await context.Users.ToListAsync();
-
+        // Obtiene todos los usuarios de la base de datos.
+        var users = await userRepository.GetUsersAsync();
         return Ok(users);
     }
 
-    // Método HTTP GET que devuelve todos los usuarios, pero recibe un parámetro 'id' en la URL.
-    // Ruta: GET /api/[controller]/{id} 
-    [Authorize]
-    [HttpGet("{id}")]
-    public async Task<ActionResult<AppUser>> GetUsers(int id)
+    [HttpGet("{username}")]
+    
+    public async Task<ActionResult<AppUser>> GetUser(string username)
     {
-        var user = await context.Users.FindAsync(id);
-
+        // Busca un usuario por su ID.
+        var user = await userRepository.GetUserByUsernameAsync(username);
         if (user == null) return NotFound();
-
-        return Ok(user);
+        return user;
     }
 
 }
