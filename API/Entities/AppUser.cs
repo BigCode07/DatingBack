@@ -42,10 +42,10 @@ namespace API.Entities
 
         public List<Photo> Photos { get; set; } = [];
     
-        public int GetAge()
-        {
-            // Calcula la edad del usuario a partir de su fecha de nacimiento.
-            return DateOfBirth.CalculateAge();
-        }
+        //public int GetAge()
+        //{
+        //    // Calcula la edad del usuario a partir de su fecha de nacimiento.
+        //    return DateOfBirth.CalculateAge();
+        //}
     }
 }

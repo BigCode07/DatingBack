@@ -7,16 +7,24 @@
       "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|c:\\users\\nicol\\desktop\\dating\\api\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F32387F-11FE-4135-BD69-BB2C21E6D30D}|API\\API.csproj|solutionrelative:api\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,28 +54,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "API\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAApAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "API\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "API\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T23:59:49.218Z",
+              "WhenOpened": "2025-07-02T02:34:18.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "API\\Data\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Data\\UserRepository.cs",
+              "RelativeToolTip": "API\\Data\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T02:31:59.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ApplicationServiceExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Extensions\\ApplicationServiceExtensions.cs",
-              "RelativeDocumentMoniker": "API\\Extensions\\ApplicationServiceExtensions.cs",
-              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Extensions\\ApplicationServiceExtensions.cs",
-              "RelativeToolTip": "API\\Extensions\\ApplicationServiceExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABKAAAAAAAAAA==",
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T00:33:05.493Z"
+              "WhenOpened": "2025-06-29T23:59:49.218Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -77,22 +99,35 @@
               "RelativeDocumentMoniker": "API\\Helpers\\AutoMapperProfiles.cs",
               "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Helpers\\AutoMapperProfiles.cs",
               "RelativeToolTip": "API\\Helpers\\AutoMapperProfiles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T00:29:48.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "API\\Entities\\AppUser.cs",
               "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Entities\\AppUser.cs",
               "RelativeToolTip": "API\\Entities\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T00:28:33.092Z"
+              "WhenOpened": "2025-06-29T00:28:33.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeDocumentMoniker": "API\\Extensions\\ApplicationServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Dating\\API\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeToolTip": "API\\Extensions\\ApplicationServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T00:33:05.493Z"
             }
           ]
         }
